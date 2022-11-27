@@ -1,0 +1,8 @@
+# head 头部资源
+head: 
+  css: 
+  js: 
+    base:  # 必须提前加载并执行。
+    async:  # 异步加载，加载完成后立即执行。
+    defer:  # 异步加载资源，但最后执行。
+      test: /js/test.js

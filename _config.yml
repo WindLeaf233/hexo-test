@@ -1,0 +1,13 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+title: test site
+subtitle: '123'
+description: 'just a desc'
+keywords:
+author: me
+language: zh-CN
+timezone: ''
+
+theme: yun
